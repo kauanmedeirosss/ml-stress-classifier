@@ -70,14 +70,7 @@ O dataset utilizado é o **Stress_Dataset.csv**, que contém informações sobre
 🔹 *Variável alvo (target):*  
   - Which type of stress do you primarily experience? 
 
----
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas!  
-Para sugerir melhorias, abra uma **issue** ou faça um **pull request**.  
-
----
 
 ## 📜 Licença
 
